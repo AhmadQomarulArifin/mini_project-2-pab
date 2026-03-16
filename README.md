@@ -53,60 +53,91 @@ Aplikasi ini terdiri dari beberapa halaman utama.
 Halaman ini digunakan untuk login ke dalam aplikasi menggunakan email dan password yang terdaftar di Supabase. Jika login berhasil, pengguna akan diarahkan ke halaman utama aplikasi. jika belum mempunyai akun atau aku belum terdaftar disupabase makan tampilan akan seperti ini, dan harus registrasi terlebih dahulu.
 ![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/35d43c9ec4e78c6b9f1bb25baca8af84fa7dc58c/Screenshot%202026-03-16%20164927.png)
 
-
 #### Register Page
 
 Halaman ini digunakan untuk membuat akun baru. Pengguna dapat mendaftarkan akun dengan memasukkan Email dan Password Akun yang dibuat akan disimpan di Supabase Authentication.
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165128.png)
+
+dan setelah melakukan register maka akan langsung otomatis masuk ke halaman homepage
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165145.png)
+dan setelah register maka otomatis akan terdaftar disupabase
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165645.png)
 
 #### Home Page
 
 Halaman utama aplikasi yang menampilkan daftar hewan yang sedang dititipkan. Fitur pada halaman ini antara lain:
 
+tampilan homepage sebelum ada data hewan
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165338.png)
+
 Menampilkan daftar hewan
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165509.png)
 
 Mencari data berdasarkan nama hewan atau pemilik
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165603.png)
 
 Menambahkan data baru
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165455.png)
 
 Mengubah tema aplikasi
+tema putih
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165338.png)
+tema hitam
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165358.png)
 
 #### Add Pet Page
 
 Halaman yang digunakan untuk menambahkan data hewan baru ke dalam database. Data yang dimasukkan melalui halaman ini akan langsung tersimpan di Supabase.
 
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165455.png)
+dan data berhasil ditambahkan dan akan muncul dihomepage
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165509.png)
+
+
 #### Detail Pet Page
 
 Halaman ini menampilkan informasi lengkap mengenai data penitipan hewan. Dari halaman ini pengguna dapat Mengedit data, Menghapus data
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165614.png)
+
+ini adalah tampilan data hewan yang ada di supabase
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165702.png)
+dan ini adalah aksi ketika kita akan menghapus data hewan
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165717.png)
+ini adalah tampilan homepage setelah data berhasi dihapus data akan hilang
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165729.png)
+dan ini tampilan di supabase setelah dihapus data hewannya
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165748.png)
 
 #### Edit Pet Page
 
 Halaman ini digunakan untuk mengubah data yang sudah ada. Semua field yang tersedia dapat diperbarui sesuai kebutuhan.
+disini ada kesalahan jenis hewan harusnya ikan tapi saya salah masukkan jadi burung
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165802.png)
+kemudian kita edit 
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165822.png)
+dan ini untuk tampilan disupabase
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165839.png)
 
 ### Struktur Folder Project
 
 Struktur folder pada project Flutter ini adalah sebagai berikut:
 
 lib
-│
-├── models
+models
 │   pet.dart
-│
-├── pages
+pages
 │   home_page.dart
 │   add_pet_page.dart
 │   edit_pet_page.dart
 │   detail_pet_page.dart
 │   login_page.dart
 │   register_page.dart
-│
-├── providers
+providers
 │   theme_provider.dart
-│
-├── services
+services
 │   pet_service.dart
 │   auth_service.dart
-│
-└── main.dart
+main.dart
 
 
 ### Database Supabase
@@ -150,10 +181,15 @@ Widget Flutter yang digunakan dalam aplikasi ini antara lain:
 #### Login & Register (Supabase Auth)
 
 Aplikasi menggunakan Supabase Authentication untuk sistem login dan register. Setiap pengguna harus login terlebih dahulu sebelum dapat mengakses data penitipan.
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20164927.png)
 
 #### Light Mode & Dark Mode
 
 Aplikasi mendukung perubahan tema antara Light Mode dan Dark Mode. Pengaturan tema ini menggunakan Provider (ChangeNotifier). Pengguna dapat mengubah tema melalui tombol pada AppBar.
+putih
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165338.png)
+hitam
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/c853c16cc29704d3c11306230d85b53a351a8db0/Screenshot%202026-03-16%20165358.png)
 
 #### Penggunaan File .env
 
