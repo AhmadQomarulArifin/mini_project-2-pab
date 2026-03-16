@@ -123,20 +123,35 @@ dan ini untuk tampilan disupabase
 Struktur folder pada project Flutter ini adalah sebagai berikut:
 
 lib
+
 models
+
 │   pet.dart
+
 pages
+
 │   home_page.dart
+
 │   add_pet_page.dart
+
 │   edit_pet_page.dart
+
 │   detail_pet_page.dart
+
 │   login_page.dart
+
 │   register_page.dart
+
 providers
+
 │   theme_provider.dart
+
 services
+
 │   pet_service.dart
+
 │   auth_service.dart
+
 main.dart
 
 
