@@ -51,6 +51,7 @@ Aplikasi ini terdiri dari beberapa halaman utama.
 #### Login Page
 
 Halaman ini digunakan untuk login ke dalam aplikasi menggunakan email dan password yang terdaftar di Supabase. Jika login berhasil, pengguna akan diarahkan ke halaman utama aplikasi. jika belum mempunyai akun atau aku belum terdaftar disupabase makan tampilan akan seperti ini, dan harus registrasi terlebih dahulu.
+![image alt](https://github.com/AhmadQomarulArifin/mini_project-2-pab/blob/35d43c9ec4e78c6b9f1bb25baca8af84fa7dc58c/Screenshot%202026-03-16%20164927.png)
 
 
 #### Register Page
